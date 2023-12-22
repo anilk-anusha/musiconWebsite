@@ -20,7 +20,7 @@ This project is a part of the "Building Interactive JavaScript Websites" course 
 
 ## To-do List
 
-- [ ] Add Functionality to the different pages 
+- [x] Add Functionality to the different pages 
 
 ## Screenshots
 
